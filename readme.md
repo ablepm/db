@@ -22,7 +22,7 @@ def init():
 # any custom functions go here
 
 def get_source(): # only required if this app is (even partially) open source
-    # add your code to get the  here
+    # add your code to get the source here
 
 def install():
     # add your code here
